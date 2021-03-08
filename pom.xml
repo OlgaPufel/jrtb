@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.github.OlgaPufel</groupId>
 	<artifactId>javarush-telegrambot</artifactId>
-	<version>0.2.0-SNAPSHOT</version>
+	<version>0.3.0-SNAPSHOT</version>
 	<name>JavarushTelegrambot</name>
 	<description>Study project Java Rush TB </description>
 	<properties>
